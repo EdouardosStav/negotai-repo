@@ -73,18 +73,12 @@ npm run dev
 
 > This version **does not contain live API functionality**. Sensitive logic tied to OpenAI or Supabase has been excluded for security.
 
----
-
-## 📸 Preview
-
-<img src="public/og-image.png" alt="NegotAI Preview" width="100%"/>
-
----
-
 ## ✍️ Author
 
 **Edouardos Stavrakis**  
-[LinkedIn](https://www.linkedin.com/in/edouardosstavrakis/) 
+AI Engineer | Tech Consultant | Founder @ NegotAI | Building AI-Powered SaaS
+
+[LinkedIn](https://www.linkedin.com/in/edouardosstavrakis/) | [GitHub](https://github.com/EdouardosStav)
 
 ---
 
